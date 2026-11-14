@@ -12,9 +12,6 @@ I built things by checking first on chatgpt if the problem has been solved or th
 | [Lutris Presence](https://github.com/aiondomisi/lutris-presence) | Discord RPC for Lutris
 | [Seen It](https://github.com/aiondomisi/seen-it) | Discord Bot that removes duplicate link and images | 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiondomisi&show_icons=true&hide_border=true&theme=transparent)
 
 <a href="https://www.last.fm/user/firifey"><img src="https://lastfm-recently-played.vercel.app/api?user=firifey&count=1&show_user=header&_stats=normal_stats" height="auto" width="350px"/></a>
 
