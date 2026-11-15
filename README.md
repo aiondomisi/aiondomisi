@@ -2,7 +2,7 @@
 
 My avatar is ukin✨ from [My Bias Gets on the Last Train](https://www.webtoons.com/en/romance/my-bias-gets-on-the-last-train/list?title_no=7857).
 
-I build things by checking first if the problem has already been solved or the project has already been done. A little timid by nature.
+I build things by prompting violently to chatGPT asking if this irritating minor problem has been solved or not. Timid by nature
 
 <img src="https://i.pinimg.com/736x/6e/07/64/6e07643a8aeee35c2df8ba221bc1848a.jpg" height="200" width="200">
 
