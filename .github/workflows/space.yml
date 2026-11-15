@@ -20,7 +20,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/space.svg
-            dist/space-dark.svg?palette=github-dark
+            dist/space-dark.svg?palette=nokia-dark
 
       - uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4.2.0
         with:
