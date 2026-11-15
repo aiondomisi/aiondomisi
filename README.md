@@ -18,5 +18,9 @@ I build things by prompting violently to chatGPT asking if this irritating minor
 <a href="https://www.last.fm/user/firifey">
   <img src="https://lastfm-recently-played.vercel.app/api?user=firifey&count=1&show_user=header&_stats=normal_stats" width="350">
 </a>
+<br /><br />
+<picture>
+  <img alt="space impact" src="https://raw.githubusercontent.com/aiondomisi/aiondomisi/output/space.svg" />
+</picture>
 
 </div>
