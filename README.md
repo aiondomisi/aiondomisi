@@ -19,10 +19,5 @@ I build things by prompting violently to chatGPT asking if this irritating minor
   <img src="https://lastfm-recently-played.vercel.app/api?user=firifey&count=1&show_user=header&_stats=normal_stats" width="350">
 </a>
 <br /><br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiondomisi/aiondomisi/output/space-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiondomisi/aiondomisi/output/space.svg" />
-  <img alt="space impact" src="https://raw.githubusercontent.com/aiondomisi/aiondomisi/output/space.svg" />
-</picture>
 
 </div>
