@@ -20,6 +20,8 @@ I build things by prompting violently to chatGPT asking if this irritating minor
 </a>
 <br /><br />
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiondomisi/aiondomisi/output/space-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiondomisi/aiondomisi/output/space.svg" />
   <img alt="space impact" src="https://raw.githubusercontent.com/aiondomisi/aiondomisi/output/space.svg" />
 </picture>
 
