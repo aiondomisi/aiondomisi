@@ -12,7 +12,9 @@ I build things by prompting violently to chatGPT asking if this irritating minor
 |:---:|:---:|
 | [Kenangan TV](https://kenangantv.aiondomisi.workers.dev/) | Retro TV, Malaysian edition |
 | [Lutris Presence](https://github.com/aiondomisi/lutris-presence) | Discord RPC for Lutris |
-| [SeenIt](https://github.com/aiondomisi/seen-it) | Discord bot that removes duplicate links and images |
+| [SeenIt](https://github.com/aiondomisi/seen-it) | Self-hosted Discord bot that removes duplicate links and images |
+| [Barang OTW](https://github.com/aiondomisi/barang-otw) | Self-hosted Discord bot that update your parcel progress |
+
 
 <hr />
 <a href="https://www.last.fm/user/firifey">
